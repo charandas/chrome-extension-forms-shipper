@@ -1,8 +1,8 @@
 {
-  "name": "Page Redder",
+  "name": "Forms Shipper",
   "manifest_version": 3,
   "version": "0.1",
-  "description": "Turns the page red when you click the icon",
+  "description": "Demos shipping form values across tabs",
   "permissions": ["activeTab", "scripting"],
   "content_scripts": [{
     "js": ["content.js"],
